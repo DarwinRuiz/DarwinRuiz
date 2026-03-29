@@ -1,19 +1,19 @@
 <h1 align="center">🔷 <em>Darwin Ruiz</em> 🔷</h1>
-<h3 align="center"><em>Software Architect | Fullstack Developer | Cloud Engineer (Azure & AWS)</em></h3>
+<h3 align="center"><em>Software Architect | Cloud Architect | Software Engineer</em></h3>
 
 ---
 
 ### 🧩 About Me
 
-I am a **Software Engineer** and current **Software Architect** with experience in building web platforms and enterprise-grade applications. I am passionate about tackling challenging projects and always strive for creative, robust, and scalable solutions to complex technical problems.
-
-I work fluently with programming languages such as **JavaScript, Java, C#, and Python**, and frameworks like **React, Angular, Express, ASP.NET, Spring Boot, Django, and Flask**. I also handle relational databases such as **MS SQL Server, MySQL, and PostgreSQL**, as well as NoSQL solutions like **MongoDB**.
-
-I have experience managing **Cloud resources** on both **Microsoft Azure** and **Amazon Web Services (AWS)**. I'm officially certified in Microsoft technologies and proficient in designing cloud-native and hybrid architectures, container deployments (Docker/Kubernetes), CI/CD pipelines, and infrastructure automation.
-
-I continuously stay up to date with the latest technologies and web development trends to deliver **high-quality, secure, and scalable** solutions. I value **user experience**, **performance**, and **clean, maintainable design** in all the systems I build.
-
-If you're looking for a committed, technically solid professional with strategic vision — I'm ready to connect.
+I am a Software Architect with previous experience as a Software Engineer, working on web and enterprise applications. I am interested in projects where scalable, maintainable, and well-structured solutions can be designed to solve technical problems in a practical and efficient way.
+ 
+I work with languages such as JavaScript, Java, C#, and Python, and frameworks like React, Angular, Express, ASP.NET, Spring Boot, Django, and Flask. I also have experience with relational databases such as MS SQL Server, MySQL, and PostgreSQL, as well as NoSQL solutions like MongoDB.
+ 
+I hold Microsoft certifications focused on cloud, data, and security, supporting my knowledge in cloud services, infrastructure, and solution architecture. I have worked with Microsoft Azure and Amazon Web Services (AWS), designing cloud and hybrid architectures, container deployments with Docker and Kubernetes, CI/CD pipelines, and infrastructure automation.
+ 
+I stay up to date with new technologies and best practices to build secure, scalable, and maintainable systems, with a strong interest in software architecture and technical design.
+ 
+If you believe my profile could add value to your team or project, I would be happy to connect.
 
 ---
 
